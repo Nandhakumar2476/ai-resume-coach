@@ -2,7 +2,7 @@
 
 🌐 Live Demo
 
-    Resume AI Coach Demo: https://resume-ai-coach-41.lovable.app/
+https://resume-ai-coach-41.lovable.app/
 
 ---
 
@@ -31,7 +31,6 @@ Resume AI Coach solves this problem by providing intelligent resume analysis and
 ✅ Skill Gap Detection
 
 ✅ Career Guidance
-
 
 ---
 
